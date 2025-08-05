@@ -1,2 +1,5 @@
 #ignore txt file begins with RST
 *.txt
+
+#ignore all jpg files
+*.jpg
