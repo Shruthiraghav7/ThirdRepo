@@ -1,2 +1,2 @@
 #ignore txt file begins with RST
-[RST]*.txt
+*.txt
